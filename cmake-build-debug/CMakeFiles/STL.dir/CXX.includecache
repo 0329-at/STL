@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Clion_daima/STL容器用法/STL serial container/Access a single element.cpp
+iostream
+-
+array
+-
+
+E:/Clion_daima/STL容器用法/STL serial container/array.cpp
+iostream
+-
+array
+-
+
